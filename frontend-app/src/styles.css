@@ -1,0 +1,31 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+  min-height: 100vh;
+  position: relative;
+  padding-bottom: 60px; /* Espacio para el footer */
+  background-color: #f5f5f7;
+}
+
+.card {
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+  border: none;
+}
+
+.card-header {
+  background-color: #fff;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+}
+
+.btn {
+  border-radius: 0.25rem;
+}
+
+.badge {
+  font-weight: 500;
+  padding: 0.35em 0.65em;
+}
+
+.table th {
+  font-weight: 600;
+  background-color: #f8f9fa;
+}
