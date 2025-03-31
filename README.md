@@ -84,7 +84,7 @@ Este proyecto es un sistema de punto de venta (POS) desarrollado como parte de l
 
 ## Contribuidores
 
-[Lista de estudiantes que trabajan en este proyecto]
+
 
 ## Licencia
 
