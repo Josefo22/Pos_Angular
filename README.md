@@ -60,9 +60,6 @@ Este proyecto es un sistema de punto de venta (POS) desarrollado como parte de l
    ```
    cd BackendApp
    dotnet ef database update
-   ```
-4. Inicia el servidor:
-   ```
    dotnet run
    ```
    El backend estará disponible en: https://localhost:7038
@@ -71,7 +68,7 @@ Este proyecto es un sistema de punto de venta (POS) desarrollado como parte de l
 1. Instala las dependencias:
    ```
    cd frontend-app
-   npm install
+   npm install (solo la primera vez o cuando instales nuevos paquetes)
    ```
 2. Inicia el servidor de desarrollo:
    ```
